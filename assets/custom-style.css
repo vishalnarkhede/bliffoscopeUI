@@ -1,0 +1,20 @@
+.space-top-lg {
+    margin-top: 100px;
+}
+.space-top-med {
+    margin-top: 50px;
+}
+.bg-dark {
+	background-color: black;
+}
+.text-terminal {
+	font-size: 18px;
+	color: #20DF1D;
+	font-family: 'Courier New', Courier, monospace;
+}
+.text-inverted {
+	color: white;
+}
+.text-med {
+	font-size: 20px;
+}

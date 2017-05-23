@@ -1,0 +1,25 @@
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4">
+            <a class="btn btn-default btn-block btn-lg" ng-disabled="!proceed" ng-click="proceed()">
+                {{ proceedButtonText }}
+            </a>
+            <div class="panel panel-default bg-dark flexible-height">
+                <div class="panel-body">
+                    <p class="text-terminal">{{ content }}</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-8">
+            <canvas id="myCanvas"
+                    bw-canvas
+                    width="2000px"
+                    height="2020px"
+                    class="bg-dark">
+            </canvas>
+        </div>
+    </div>
+</div>
+<script type="text/ng-template" id="testModal.html">
+    <div>Vishal Narkhede is cool</div>
+</script>
