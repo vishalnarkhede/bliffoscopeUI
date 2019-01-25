@@ -1,4 +1,4 @@
-# Bliffoscope Data Analysis Problem
+# Bliffoscope Mission
 ### Problem Statement
 
 It's April 1, 2143. Your job is to save the world.
