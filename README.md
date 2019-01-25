@@ -22,4 +22,4 @@ and if there is a target, some of its pixels will be “off”.
 ### Hosting
 
 You can checkout this project's UI on following URL:
-[bliffoscope.vishtree.com](http://bliffoscope.vishtree.com)
+[https://vishalnarkhede.github.io/bliffoscopeui/](https://vishalnarkhede.github.io/bliffoscopeui/)
